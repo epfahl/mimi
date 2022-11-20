@@ -1,3 +1,5 @@
+[![Hex.pm Version](https://img.shields.io/hexpm/v/timex.svg?style=flat)](https://hex.pm/packages/mimi)
+
 _`Mimi` the mini memoizer._
 
 Sometimes you want a simple way to store and retrieve past function values. `Mimi` can 
