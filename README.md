@@ -1,4 +1,4 @@
-[![Hex.pm Version](https://img.shields.io/hexpm/v/timex.svg?style=flat)](https://hex.pm/packages/mimi)
+[![Hex.pm Version](https://img.shields.io/hexpm/v/mimi.svg)](https://hex.pm/packages/mimi)
 
 _`Mimi` the mini memoizer._
 
