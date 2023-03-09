@@ -43,7 +43,7 @@ respectively.
 
 ### Disclaimer
 
-The memoized state in `Mimi` is managed in anyway; it will continue to grow until the
+The memoized state in `Mimi` isn't managed in any way; it will continue to grow until the
 parent process is terminated or until the `Agent` process is terminated manually. 
 It is not advisable to use `Mimi` is critical applications.
 
